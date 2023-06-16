@@ -1,4 +1,5 @@
 # demoApp
+## hours spent ~ 6
 
 ## tried to make this repo as close as possible to waht i would write in real project 
 
