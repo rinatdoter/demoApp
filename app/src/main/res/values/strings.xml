@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TestTask</string>
+
+    <string name="error_no_internet">Could not establish connection to server</string>
+    <string name="error_timeout">connection timeout</string>
+    <string name="error_unknown">unknown error</string>
+    <string name="server_error">Server error</string>
+
+
+    <string name="login">login</string>
+    <string name="register">register</string>
+
+
+    <string name="size">size : %d</string>
+    <string name="type">type : %s</string>
+    <string name="tags">tags : %s</string>
+
+    <string name="author">author : %s</string>
+    <string name="views">views : %d</string>
+    <string name="likes">likes : %d</string>
+    <string name="comments">comments : %d</string>
+    <string name="downloads">downloads : %d</string>
+
+
+</resources>
